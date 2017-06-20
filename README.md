@@ -19,9 +19,7 @@
     
     在 ns-allinone-2.35 目录下，执行命令：mkdir Test-DCTCP ，新建文件夹Test-DCTCP ,把dctcp-dumbbell.tcl 放在Test-DCTCP内；
     进入Test-DCTCP文件夹的命令: cd Test-DCTCP
-    运行脚本命令： ns dctcp-dumbbell.tcl  ， 成功运行后产生cwnd 数据文件和图像。
-    
-    
+    运行脚本命令： ns dctcp-dumbbell.tcl  ， 成功运行后产生cwnd 数据文件和图像。      
 
 #3 tcp_cubic.c 文件是ns2中的cubic源文件 ，目录为：ns-allinone-2.35/ns-2.35/tcp/linux/src/ 
 
