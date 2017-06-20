@@ -21,4 +21,8 @@
     进入Test-DCTCP文件夹的命令: cd Test-DCTCP
     运行脚本命令： ns dctcp-dumbbell.tcl  ， 成功运行后产生cwnd 数据文件和图像。
     
-    
+    
+
+#3 tcp_cubic.c 文件是ns2中的cubic源文件 ，目录为：ns-allinone-2.35/ns-2.35/tcp/linux/src/ 
+
+#4 tcp_cubic-linux2.6.22.6.c 是Linux-2.6.22.6内核中的cubic 源文件 ，目录为： linux-2.6.22.6/net/ipv4/
