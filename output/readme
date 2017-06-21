@@ -1,0 +1,1 @@
+tcp fairless -- flow1:cubic flow2:cubic rtt1:10 rtt2:20 rtt3:20
