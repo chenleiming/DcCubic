@@ -27,5 +27,5 @@
 
 #5 有关ns2.35在ubuntu16.04下的安装：
     1.一定不要用命令：sudo apt-get install ns2 安装，否则之后无法添加patch修改内核以加入dctcp；
-    2.下载ns2.35压缩包（https://www.isi.edu/nsnam/ns/ns-build.html#allinone）；
+    2.下载ns2.35压缩包（https://www.isi.edu/nsnam/ns/ns-build.html#allinone ）；
     3.安装ns2和nam参考：http://blog.csdn.net/circle2015/article/details/52490582 （注：安装ns2一定要给权限，命令：sudo ./install）
